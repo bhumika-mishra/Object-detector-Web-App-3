@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.link{
+    background: white;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: bold;
+}
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
